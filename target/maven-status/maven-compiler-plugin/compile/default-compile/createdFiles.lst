@@ -1,0 +1,11 @@
+com\mycompany\gems_store\dao\ProductDao.class
+com\mycompany\gems_store\dao\CategoryDao.class
+com\mycompany\gems_store\servlets\LoginServlet.class
+com\mycompany\gems_store\dao\UserDao.class
+com\mycompany\gems_store\entities\Product.class
+com\mycompany\gems_store\helper\FactoryProvider.class
+com\mycompany\gems_store\servlets\RegisterServlet.class
+com\mycompany\gems_store\servlets\ProductOperationServlet.class
+com\mycompany\gems_store\servlets\LogoutServlet.class
+com\mycompany\gems_store\entities\Category.class
+com\mycompany\gems_store\entities\User.class
